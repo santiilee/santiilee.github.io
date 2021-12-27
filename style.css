@@ -1,0 +1,18 @@
+body {
+  min-height: 2800px;
+}
+.jumbotron {
+  padding-top: 7rem;
+  background: rgb(143, 188, 144);
+}
+
+#My-Favorite-K-Drama {
+  background: rgb(143, 188, 144);
+}
+
+section {
+  padding-top: 5rem;
+}
+footer {
+  background: rgb(47, 79, 79);
+}
